@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Adam👋
+
+I'm a **computer engineering** student at the University of Waterloo. I specialize in Machine Learning and its applications, and have professional experience in things like document classification, text-classification, and stutter detection. I also have several medical related projects, including my own startup!
+
+Check out my [LinkedIn](https://www.linkedin.com/in/adam-lam26/)!
+
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adam2611)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adam2611)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Adam2611/Adam2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
