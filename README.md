@@ -4,8 +4,6 @@ I'm a **computer engineering** student at the University of Waterloo. I speciali
 
 Check out my [LinkedIn](https://www.linkedin.com/in/adam-lam26/)!
 
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adam2611)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
