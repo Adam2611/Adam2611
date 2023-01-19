@@ -1,6 +1,6 @@
 ### Hi there, I'm Adam👋
 
-I'm a **computer engineering** student at the University of Waterloo. I specialize in Machine Learning and its applications, and have **professional** experience in things like document classification, text-classification, and stutter detection. I also have several **medical** related projects, including my own startup!
+I'm a **computer engineering** student at the University of Waterloo. I specialize in Machine Learning and its applications, and have **professional** experience at [Carta](https://carta.com), [AMD](https://amd.com), and [Wisedocs.ai](https://wisedocs.ai), working with things like document classification, stutter detection, and image classification. I've also been involved in several medical AI initiatives, including [WAT.ai](https://www.linkedin.com/company/wat-ai/) and having co-founded [House.ai](https://houseai.tech).
 
 Check out my [LinkedIn](https://www.linkedin.com/in/adam-lam26/)!
 
