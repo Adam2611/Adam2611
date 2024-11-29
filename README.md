@@ -2,7 +2,9 @@
 
 I'm a **Machine Learning Engineer** who studied Engineering at the University of Waterloo. I specialize in Machine Learning and its applications, and have **professional** experience at [AltaML](https://altaml.com/), [Intact Labs](https://intactlab.ca/), [Carta](https://carta.com), [AMD](https://amd.com), and [Wisedocs.ai](https://wisedocs.ai). I've worked with cool tech like LLMs, document classification, video-stutter detection, and image recognition. I also have a keen interest in startups and health-tech, especially seen through a past startup I founded called [House.ai](https://houseai.tech)!
 
-Check out my [LinkedIn](https://www.linkedin.com/in/adam-lam26/), and I'm always happy to chat!
+Check out my [LinkedIn](https://www.linkedin.com/in/adam-lam26/) too!
+
+See below for some cool projects done outside of school!
 
 <!--
 **Adam2611/Adam2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
